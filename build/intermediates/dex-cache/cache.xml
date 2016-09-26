@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_1f544050daa602ad1646b83975338cd48eecbe8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\gajju\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_25a0c1a8057610b419bb5a6db4049f32039eba3d.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_bdbb87e7a2154779aff766520b0a64d4a5ffe56a.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_16c6ade3aab5b44d8be2039fa85e0ab0fc8d3529.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_7687ed1354966c4a9c6dbea056c62bd5015fdfc7.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_3fc311282f46d20b99ace05c286fcd7f47a55f69.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_29110b71db5fd8f0971b61fe4d73871a661b3b14.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_8f56534374c85830140b1e626f099006684eb930.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_80f69c718b172502d81a92e5b45499038fea5aa6.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_573357d3ce30709813e5f7ce5d8cfb370a4ceaa6.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_198eaf56405c5adf2153de8a61aa4d5a2dcc0726.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_15c044121804228a9031eca35940b26b6b96476a.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_ba1a96e71ae1b479f66b80a813d181a3dfa5b676.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_1fd599e2f83d722a7870ef425605685e20073ef5.jar" />
+    </item>
+    <item
+        jar="C:\image\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\image\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_b4d4a5ff1997b1c416996db49b91caa28c961242.jar" />
+    </item>
+
+</items>
